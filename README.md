@@ -12,5 +12,10 @@
 > python3 sublist3r.py -d ***[TARGET DOMAIN]***
 # org mapping
 #### crosslinked
+> python3 crosslinked.py -f '{first}.{last}@domain.com' ***[ORG NAME]***
 #### dorks
 > site:"linkedin.com" "***[ORG NAME]***"  
+#### leaks
+> dehashed  
+> snusbase  
+> 
