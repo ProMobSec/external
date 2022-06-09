@@ -27,3 +27,9 @@
 trevorspray -u ***bob@evilcorp.com*** -p ***'Welcome123'*** --delay ***5***
 #### hydra
 hydra -L users.txt -P ***wordlist.txt*** ssh://***target host***
+# infrastructure
+### hosting
+> digital ocean  
+> amazon  
+### servers
+> evilnginx2
