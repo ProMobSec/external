@@ -21,7 +21,7 @@
 > dehashed  
 > snusbase  
 #### company
-> allabolag.se
+> allabolag.se  
 > merinfo.se
 # vuln scanning
 #### nessus
