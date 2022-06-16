@@ -10,6 +10,8 @@
 > dnsenum ***[TARGET DOMAIN]***  
 #### sublist3r
 > python3 sublist3r.py -d ***[TARGET DOMAIN]***
+#### censys.io
+> search.censys.io
 # org mapping
 #### crosslinked
 > python3 crosslinked.py -f '{first}.{last}@domain.com' ***[ORG NAME]***
