@@ -20,6 +20,9 @@
 #### leaks
 > dehashed  
 > snusbase  
+#### company
+> allabolag.se
+> merinfo.se
 # vuln scanning
 #### nessus
 #### hackertarget
